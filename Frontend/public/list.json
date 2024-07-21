@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "name":"Supervised Quantum Machine Learning",
+        "title":"A good book on Supervised Quantum Machine Learning",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/red-text-book-closed-icon_18591-82397.jpg?t=st=1721458118~exp=1721461718~hmac=b101b4c0d43538cd8b1122d7cd6723db28c75011bddf82ef3ef7f07d6a601dd3&w=740"
+    },
+    {
+        "id":2,
+        "name":"Wings of Fire",
+        "title":"A good book on Supervised Quantum Machine Learning",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/red-text-book-closed-icon_18591-82397.jpg?t=st=1721458118~exp=1721461718~hmac=b101b4c0d43538cd8b1122d7cd6723db28c75011bddf82ef3ef7f07d6a601dd3&w=740"
+    },
+    {
+        "id":3,
+        "name":"Atomic Habits",
+        "title":"A good book on Supervised Quantum Machine Learning",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/red-text-book-closed-icon_18591-82397.jpg?t=st=1721458118~exp=1721461718~hmac=b101b4c0d43538cd8b1122d7cd6723db28c75011bddf82ef3ef7f07d6a601dd3&w=740"
+    },
+    {
+        "id":4,
+        "name":"Atomic Habits",
+        "title":"A good book on Supervised Quantum Machine Learning",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/red-text-book-closed-icon_18591-82397.jpg?t=st=1721458118~exp=1721461718~hmac=b101b4c0d43538cd8b1122d7cd6723db28c75011bddf82ef3ef7f07d6a601dd3&w=740"
+    },
+    {
+        "id":5,
+        "name":"Atomic Habits",
+        "title":"A good book on Supervised Quantum Machine Learning",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/red-text-book-closed-icon_18591-82397.jpg?t=st=1721458118~exp=1721461718~hmac=b101b4c0d43538cd8b1122d7cd6723db28c75011bddf82ef3ef7f07d6a601dd3&w=740"
+    },
+    {
+        "id":6,
+        "name":"Oliver Twist",
+        "title":"A good book on Supervised Quantum Machine Learning",
+        "price":20,
+        "category":"Novel",
+        "image":"https://img.freepik.com/free-vector/red-text-book-closed-icon_18591-82397.jpg?t=st=1721458118~exp=1721461718~hmac=b101b4c0d43538cd8b1122d7cd6723db28c75011bddf82ef3ef7f07d6a601dd3&w=740"
+    }
+]
