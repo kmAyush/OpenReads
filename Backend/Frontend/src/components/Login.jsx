@@ -17,7 +17,8 @@ function Login() {
             password:data.password,
         }
         await axios
-        .post("http://localhost:4001/user/login", userInfo)
+        //.post("http://localhost:4001/user/login", userInfo)
+        .post("/user/login", userInfo)
         .then((res)=>{
             if(res.data){
                 toast.success("Login Successful")

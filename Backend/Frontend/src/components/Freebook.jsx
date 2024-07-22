@@ -12,7 +12,8 @@ function Freebook() {
   useEffect(()=>{
     const getBook=async()=>{
       try {
-        const response = await axios.get("http://localhost:4001/book");
+        const response = await axios.get("/book");
+        //const response = await axios.get("http:localhost:4001/book");
         console.log(response.data);
         const data = response.data.filter((data) => data.category === "Free");
         setBook(data);
@@ -29,7 +30,32 @@ function Freebook() {
     speed: 500,
     slidesToShow: 3,
     slidesToScroll: 3,
-
+    responsive: [
+      {
+        breakpoint: 1024,
+        settings: {
+          slidesToShow: 3,
+          slidesToScroll: 3,
+          infinite: true,
+          dots: true
+        }
+      },
+      {
+        breakpoint: 600,
+        settings: {
+          slidesToShow: 2,
+          slidesToScroll: 2,
+          initialSlide: 2
+        }
+      },
+      {
+        breakpoint: 480,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1
+        }
+      }
+    ]
   };
   return (
     <>
@@ -37,7 +63,7 @@ function Freebook() {
             <div>
                 <h1 className='text-xl font-bold'>Recommended Books</h1>
             </div>
-            <div>
+            <div className='slider-container'>
                 <Slider {...settings}>
                     {book.map((item)=>(<Cards item={item} key={item.id}/>))}
                 </Slider>
