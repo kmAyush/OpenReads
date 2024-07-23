@@ -1,12 +1,15 @@
 # OpenReads
 
-A digital book store to contain openly available unlicensed free books in a categorised way. (Work in Progress)
+A digital book store to contain openly available unlicensed free books in a categorised way. (wip)<br />
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./Backend/Images/screen_light.png">
-  <img style="align-content:center" alt="tiny corp logo" src="./Backend/Images/screen_dark.png" width="60%" height="60%">
+  <img style="align-content:center" alt="openreads screen" src="./Backend/Images/screen_dark.png" width="60%" height="60%">
 </picture>
 </div>
+<br />
+Note : Change theme (light or dark) of your device to see other theme image.
 
 Current State
 -----
