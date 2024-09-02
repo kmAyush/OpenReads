@@ -1,11 +1,11 @@
 # OpenReads
 
-A digital book store to contain openly available unlicensed free books in a categorised way. (wip)<br />
+A digital book store to contain openly available unlicensed free books in a categorised way. [work in progress] <br />
 
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./Backend/Images/screen_light.png">
-  <img style="align-content:center" alt="openreads screen" src="./Backend/Images/screen_dark.png" width="60%" height="60%">
+  <img style="align-content:center; border:1px solid #7e7e7e;" alt="openreads screen" src="./Backend/Images/screen_dark.png" width="60%" height="60%">
 </picture>
 </div>
 <br />
@@ -18,7 +18,7 @@ Current State
 * User Authentication.
 * MongoDB based cloud database support.
 
-TODO
+To Do
 -----
 * Add Search function & link book pdf support.
 * Adding support for reading books.
