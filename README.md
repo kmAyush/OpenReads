@@ -4,8 +4,8 @@ A digital book store to contain openly available unlicensed free books in a cate
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="./Backend/Images/screen_light.png">
-  <img style="align-content:center; border:1px solid #7e7e7e;" alt="openreads screen" src="./Backend/Images/screen_dark.png" width="60%" height="60%">
+  <source media="(prefers-color-scheme: light)" srcset="./Backend/Images/screen_light.jpg">
+  <img alt="openreads screen" src="./Backend/Images/screen_dark.png" width="60%" height="60%">
 </picture>
 </div>
 <br />
